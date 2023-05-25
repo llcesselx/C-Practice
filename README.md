@@ -1,2 +1,2 @@
 # C-Practice
- Small C Projects
+ practice problems in C language
